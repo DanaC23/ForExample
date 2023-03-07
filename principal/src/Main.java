@@ -5,7 +5,7 @@ public class Main {
         System.out.println("Este es mi repositorio de prueba");
 
         int numInicial = 0;
-        int numfinal= 10;
+        int numfinal= 15;
         int marcador = numInicial;
         boolean soloPares = true;
 
